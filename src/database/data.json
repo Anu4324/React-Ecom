@@ -1,0 +1,424 @@
+{
+  "maincategory": [
+    {
+      "id": "1",
+      "name": "Male"
+    },
+    {
+      "id": "2",
+      "name": "Female"
+    },
+    {
+      "id": "3",
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "2",
+      "name": "T-shirt"
+    },
+    {
+      "id": "3",
+      "name": "Trouser"
+    },
+    {
+      "id": "4",
+      "name": "Jeans"
+    },
+    {
+      "id": "5",
+      "name": "Shirt"
+    },
+    {
+      "id": "6",
+      "name": "Jacket"
+    },
+    {
+      "id": "7",
+      "name": "Jogger"
+    }
+  ],
+  "brand": [
+    {
+      "id": "1",
+      "name": "Adidas",
+      "pic": "logo-9.png"
+    },
+    {
+      "id": "2",
+      "name": "Mufti",
+      "pic": "logo-2.png"
+    },
+    {
+      "id": "3",
+      "name": "Polo",
+      "pic": "logo-3.png"
+    },
+    {
+      "id": "4",
+      "name": "Gucci",
+      "pic": "logo-4.jfif"
+    },
+    {
+      "id": "5",
+      "name": "Zara",
+      "pic": "logo-4.png"
+    },
+    {
+      "id": "6",
+      "name": "Nike",
+      "pic": "logo-6.png"
+    },
+    {
+      "id": "7",
+      "name": "Puma",
+      "pic": "logo-7.png"
+    },
+    {
+      "id": "8",
+      "name": "Micro",
+      "pic": "logo-8.png"
+    }
+  ],
+  "user": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "1",
+      "name": "Anurag Singh",
+      "email": "anuragksingh109@gmail.com",
+      "password": "User@12345",
+      "username": "User@232",
+      "number": "9170973916",
+      "cpassword": "User@12345",
+      "role": "Admin",
+      "address": "Bjardiha,Kachhawa,Mirzapur",
+      "city": "Kachhawa",
+      "state": "Uttar Pradesh",
+      "pin": "231001",
+      "country": "India",
+      "pic": "team1-2.jpg",
+      "phone": "9170973916 "
+    },
+    {
+      "id": "8bd0",
+      "name": "Stayam",
+      "email": "singhsp0222@gmail.com",
+      "password": "User@12345",
+      "username": "satyam@121",
+      "number": "9170973916",
+      "cpassword": "User@12345",
+      "role": "Buyer",
+      "state": "New Delhi",
+      "pin": "110096",
+      "city": "Delhi",
+      "country": "Indian",
+      "address": "B-803",
+      "pic": "team1-3.jpg",
+      "phone": "9170973916 "
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Male T-Shirt Nike",
+      "maincategory": "Male",
+      "subcategory": "T-Shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "43",
+      "baseprice": "1542",
+      "discount": "12",
+      "finalprice": 1357,
+      "stock": "Out Of Stock",
+      "description": "Clean and classic, this Nike tee features our signature Max90 fit and soft, midweight cotton. It's designed to feel roomy through the chest and body for easy movement and layering. A raised-silicone printed graphic on the chest nods to the iconic Air Max Plus sneaker. For added style points, pair it up with the matching shoes.",
+      "pic1": "download1.jpeg",
+      "pic2": "download4.jpeg",
+      "pic3": "product-4.jpg",
+      "pic4": "product-5.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Female T-Shirt Nike",
+      "maincategory": "Female",
+      "subcategory": "T-Shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "34",
+      "baseprice": "1800",
+      "discount": "12",
+      "finalprice": 1584,
+      "stock": "In Stock",
+      "description": "Wrap yourself in comfortable organic cotton. Made with slightly dropped shoulders, the loose fit brings a relaxed, casual feel.",
+      "pic1": "images6.jpeg",
+      "pic2": "images7.jpeg",
+      "pic3": "images8.jpeg",
+      "pic4": "images9.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Female T-Shirt Mufti",
+      "maincategory": "Female",
+      "subcategory": "T-Shirt",
+      "brand": "Mufti",
+      "color": "Green",
+      "size": "28",
+      "baseprice": "1999",
+      "discount": "12",
+      "finalprice": "1759",
+      "stock": "In Stock",
+      "description": "You are protected from typical water-based stains by our stain-proof and odor-resistant  round-neck Turms T-shirts, a breakthrough in everyday apparel. Spills that may otherwise ruin your day are prevented by the stain-repellent quality.",
+      "pic1": "muftitf.jpeg",
+      "pic2": "muftitf1.jpeg",
+      "pic3": "women-1.jpg",
+      "pic4": "women-2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Male Jesns Adidas",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": "1950",
+      "discount": "15",
+      "finalprice": 1931,
+      "stock": "In Stock",
+      "description": "We partner with Better Cotton to improve cotton farming globally. Better Cotton makes global cotton production better for the people who produce it, better for the environment it grows in, and better for the sector's future.",
+      "pic1": "adidask2.jpeg",
+      "pic2": "adidask3.jpeg",
+      "pic3": "adidasm.jpeg",
+      "pic4": "adidasm1.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Male Jacket Zara",
+      "maincategory": "Male",
+      "subcategory": "Jacket",
+      "brand": "Zara",
+      "color": "DarkGreen",
+      "size": "35",
+      "baseprice": "2500",
+      "discount": "12",
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "Pack of three pairs of boxers with an elasticated waistband.",
+      "pic1": "man-large.jpg",
+      "pic2": "man-3.jpg",
+      "pic3": "men-01.jpg",
+      "pic4": "man-4.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Female Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "32",
+      "baseprice": "999",
+      "discount": "14",
+      "finalprice": 849,
+      "stock": "Out Of Stock",
+      "description": "The GG monogram explores fresh interpretations. On leather, wool, and cotton the signature GG motif is slightly offset with a drop shadow to create a sense of dimension. This slim fit shirt is made from GG Oxford cotton with a contemporary optical effect.",
+      "pic1": "rp-1.jpg",
+      "pic2": "rp-2.jpg",
+      "pic3": "product-6.jpg",
+      "pic4": "product-7.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Male Shirt Zara",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": "1580",
+      "discount": "18",
+      "finalprice": 1564,
+      "stock": "In Stock",
+      "description": "Shirt made of fabric with easy care and everyday maintenance texture Regular fit spread collar shirt featuring long sleeves with buttoned cuffs. Button-up front.",
+      "pic1": "team1-4.jpg",
+      "pic2": "sml1.jpg",
+      "pic3": "team3-2.jpg",
+      "pic4": "team2-2.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Kids Jacket Polo",
+      "maincategory": "Kids",
+      "subcategory": "Jacket",
+      "brand": "Polo",
+      "color": "Green&White",
+      "size": "14",
+      "baseprice": "1450",
+      "discount": "18",
+      "finalprice": 1175,
+      "stock": "In Stock",
+      "description": "U.S. Polo Assn. brand products are authentic and officially sanctioned by the United States Polo Association, the governing body for the sport of polo in the United States since 1890.",
+      "pic1": "women-3.jpg",
+      "pic2": "women-2.jpg",
+      "pic3": "women-1.jpg",
+      "pic4": "insta-3.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Kids Jeans Adidas",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "12",
+      "baseprice": "1630",
+      "discount": "12",
+      "finalprice": 1614,
+      "stock": "In Stock",
+      "description": "Eyes on the prize. Legs in these juniors' adidas pants. Airy and soft, these mid-rise pants won't distract you as you take on whatever your day throws at you. The drawcord waistband adjusts for comfort, while the zip pockets keep your phone close.",
+      "pic1": "adidask1.jpeg",
+      "pic2": "adidask.jpeg",
+      "pic3": "insta-4.jpg",
+      "pic4": "muftik1.jpeg"
+    },
+    {
+      "id": "10",
+      "name": "Kids Jeans Micro",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Micro",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": "2540",
+      "discount": "15",
+      "finalprice": 2515,
+      "stock": "In Stock",
+      "description": "Let your champ step out in style with this combo pair of jeans, which is presented by the reputed brand of Softy Jeans",
+      "pic1": "adidask2.jpeg",
+      "pic2": "adidasm2.jpeg",
+      "pic3": "i2.jpg",
+      "pic4": "kid-03.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Male Jacket Nike",
+      "maincategory": "Male",
+      "subcategory": "Jacket",
+      "brand": "Nike",
+      "color": "Blue & White",
+      "size": "35",
+      "baseprice": "1890",
+      "discount": "15",
+      "finalprice": 1607,
+      "stock": "Out Of Stock",
+      "description": "The recycled polyester used in Nike products begins as recycled plastic bottles, which are cleaned, shredded into flakes and converted into pellets.",
+      "pic1": "team1-1.jpg",
+      "pic2": "team1-1.jpg",
+      "pic3": "team1-4.jpg",
+      "pic4": "team1-3.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Kids Jacket Nike",
+      "maincategory": "Kids",
+      "subcategory": "Jacket",
+      "brand": "Nike",
+      "color": "Pink",
+      "size": "12",
+      "baseprice": "1504",
+      "discount": "12",
+      "finalprice": 1489,
+      "stock": "In Stock",
+      "description": "Infused with classic Nike style, this jacket has the familiar fit of our Club Fleece favourites with the soft feel of a lightweight jersey knit fabric. Slip it over your favourite tee when you want an extra layer but worry fleece is too warm.",
+      "pic1": "adidask1.jpeg",
+      "pic2": "adidask.jpeg",
+      "pic3": "images17.jpeg",
+      "pic4": "insta-3.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "11a4",
+      "userid": "1",
+      "productid": "5",
+      "name": "Male Jacket Zara",
+      "color": "DarkGreen",
+      "size": "35",
+      "brand": "Zara",
+      "price": 2475,
+      "pic": "man-large.jpg",
+      "qty": 1,
+      "total": 2475
+    },
+    {
+      "id": "b333",
+      "userid": "8bd0",
+      "productid": "6",
+      "name": "Female Shirt Gucci",
+      "color": "White",
+      "size": "32",
+      "brand": "Gucci",
+      "price": 849,
+      "pic": "rp-1.jpg",
+      "qty": 1,
+      "total": 849
+    },
+    {
+      "id": "381f",
+      "userid": "1",
+      "productid": "12",
+      "name": "Kids Jacket Nike",
+      "color": "Pink",
+      "size": "12",
+      "brand": "Nike",
+      "price": 1489,
+      "pic": "adidask1.jpeg",
+      "qty": 1,
+      "total": 1489
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "4865",
+      "userid": "8bd0",
+      "productid": "7",
+      "name": "Male Shirt Zara",
+      "color": "Blue",
+      "size": "34",
+      "brand": "Zara",
+      "price": 1564,
+      "pic": "team1-4.jpg"
+    },
+    {
+      "id": "e7e4",
+      "userid": "8bd0",
+      "productid": "6",
+      "name": "Female Shirt Gucci",
+      "color": "White",
+      "size": "32",
+      "brand": "Gucci",
+      "price": 849,
+      "pic": "rp-1.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "0"
+    }
+  ],
+  "newslatter": [
+    {
+      "id": "0"
+    }
+  ],
+  "contact": [
+    {
+      "id": "0"
+    }
+  ]
+}
